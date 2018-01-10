@@ -1,0 +1,28 @@
+genre_id,genre_name,genre_name_lang,genre_type,created,created_by,last_modified,last_modified_by
+G01,Non-literary essay,en,non-fiction,2017-07-03,LH,2017-07-03,LH
+G02,biography,en,life-writing,2017-07-03,LH,2017-07-03,LH
+G03,autobiography,en,life-writing,2017-07-03,LH,2017-07-03,LH
+G04,novel,en,fiction,2017-07-03,LH,2017-07-03,LH
+G05,short story,en,fiction,2017-07-03,LH,2017-07-03,LH
+G06,shouchaoben fiction,en,fiction,2017-07-03,LH,2017-07-03,LH
+G07,science fiction,en,fiction,2017-07-03,LH,2017-07-03,LH
+G08,fairy tale,en,fiction,2017-07-03,LH,2017-07-03,LH
+G09,chuanqi,zh-Latn-pinyin,fiction,2017-07-03,LH,2017-07-03,LH
+G10,poetry,en,poetry,2017-07-03,LH,2017-07-03,LH
+G11,prose poetry,en,poetry,2017-07-03,LH,2017-07-03,LH
+G12,shi,zh-Latn-pinyin,poetry,2017-07-03,LH,2017-07-03,LH
+G13,ci,zh-Latn-pinyin,poetry,2017-07-03,LH,2017-07-03,LH
+G14,diary,en,life-writing,2017-07-03,LH,2017-07-03,LH
+G15,letter,en,life-writing,2017-07-03,LH,2017-07-03,LH
+G16,tragedy,en,drama,2017-07-03,LH,2017-07-03,LH
+G17,comedy,en,drama,2017-07-03,LH,2017-07-03,LH
+G18,Chinese opera,en,drama,2017-07-03,LH,2017-07-03,LH
+G19,academic writing,en,non-fiction,2017-07-03,LH,2017-07-03,LH
+G20,textbook,en,non-fiction,2017-07-12,OS,2017-07-12,OS
+G21,novella,en,fiction,2017-07-12,OS,2017-07-12,OS
+G22,newspaper article,en,non-fiction,2017-07-12,OS,2017-07-12,OS
+G23,literary essay,en,fiction,2017-07-18,OS,2017-07-18,OS
+G24,political theory,en,non-fiction,2017-07-25,MG,2017-07-25,MG
+G25,correspondence,en,non-fiction,2017-07-27,LH,2017-07-27,LH
+G26,CCP central document,en,non-fiction,2017-10-03,CW,2017-10-03,CW
+G27,Speech,en,non-fiction,2017-10-03,CW,2017-10-03,CW
