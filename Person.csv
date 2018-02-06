@@ -164,8 +164,8 @@ P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://e
 P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0083,Anonymous,,en,,NULL,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
-P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
 P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,Арцыба́шев,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
@@ -417,3 +417,5 @@ P0253,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NU
 P0253,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
 P0254,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
 P0254,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0255,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0147,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
+P0255,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0147,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
