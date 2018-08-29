@@ -122,7 +122,7 @@ P0061,杨,曦光,zh,male,no,NULL,NULL,NULL,1948,2004,杨小凯,,PL0194,,,https:/
 P0062,Siao,Eva,en,female,NULL,NULL,NULL,NULL,1911,2001,,,PL0195,,,SS00113,,https://en.wikipedia.org/wiki/Eva_Sandberg_Xiao,,,Third source: https://zh.wikipedia.org/wiki/%E5%8F%B6%E5%8D%8E_(%E8%90%A7%E4%B8%89%E5%A4%AB%E4%BA%BA),2017-07-05,LH,2018-03-13,WH
 P0062,叶,华,zh,female,NULL,NULL,NULL,NULL,1911,2001,,,PL0195,,,SS00113,,https://en.wikipedia.org/wiki/Eva_Sandberg_Xiao,,,Third source: https://zh.wikipedia.org/wiki/%E5%8F%B6%E5%8D%8E_(%E8%90%A7%E4%B8%89%E5%A4%AB%E4%BA%BA),2017-07-05,LH,2018-03-13,WH
 P0063,Nanchu,,en,female,yes,1970,1973,PL0008,1953,,,,,,yes,SS00003,196f,,,,,2017-07-05,LH,2018-01-26,WH
-P0063,Nanchu,,zh,female,yes,1970,1973,PL0008,1953,,,,,,yes,SS00003,196f,,,,,2017-07-05,LH,2018-01-26,WH
+P0063,Nanchu,,zh,female,yes,1970,1973,PL0008,1953,,,,,,yes,SS00003,196f,,,,FIX ME,2017-07-05,LH,2018-01-26,WH
 P0064,Gao,Yuan,en,male,unknown,NULL,NULL,NULL,1952,,,,Shuiyuan,,,SS00128,5ff.,,,,Could not exactly locate Shuiyuan. Somewhere close to the Taihang mountains.,2017-07-05,LH,2018-02-07,WH
 P0064,高,原,zh,male,unknown,NULL,NULL,NULL,1952,,,,Shuiyuan,,,SS00128,5ff.,,,,Could not exactly locate Shuiyuan. Somewhere close to the Taihang mountains.,2017-07-05,LH,2018-02-07,WH
 P0065,Zhang,Zhenzhou,en,male,unknown,NULL,NULL,NULL,,,,,,,,SS00112,51,,,,,2017-07-05,LH,2018-02-07,WH
@@ -164,9 +164,8 @@ P0081,Anagnosti,Dhimitër,en,male,NULL,NULL,NULL,NULL,1936,,,,PL0029,,,https://e
 P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
-P0083,Anonymous,,en,NULL,NULL,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-09,OS,2018-02-07,WH
-P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-384,-322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
-P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-384,-322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
+P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
+P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
 P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-26,WH
 P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-26,WH
 P0085,Арцыба́шев,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-26,WH
@@ -179,8 +178,8 @@ P0088,巴巴耶夫斯基,谢苗,zh,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,
 P0088,Бабаевский,Семён,ru,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,,2017-07-10,OS,2018-01-26,WH
 P0089,Bach,Johann Sebastian,en,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,2017-07-10,OS,2018-01-26,WH
 P0089,巴赫,约翰·塞巴斯蒂安,zh,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,2017-07-10,OS,2018-01-26,WH
-P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-26,WH
-P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-26,WH
+P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,0772,0846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-26,WH
+P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,0772,0846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-26,WH
 P0091,Balmont,Konstantin,en,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-26,WH
 P0091,巴尔蒙特,康斯坦丁,zh,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-26,WH
 P0091,Бальмо́нт,Константи́н,ru,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-26,WH
@@ -296,18 +295,18 @@ P0166,Wu,,en,female,,,,,,,,,,,,SS00029,116,,,,,2017-10-03,MG,2018-02-22,MG
 P0166,巫,,zh,female,,,,,,,,,,,,SS00029,116,,,,,2017-10-03,MG,2018-02-19,MG
 P0167,Yan,Wenliang,en,male,NULL,NULL,NULL,NULL,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,,,,2017-10-03,MG,2018-02-07,WH
 P0167,颜,文樑,zh,male,NULL,NULL,NULL,NULL,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,,,,2017-10-03,MG,2018-02-07,WH
-P0168,Xiao,Xia,en,,,,,,,,,,,,,SS00133,ONLINE SOURCE,,,,,2017-10-03,MG,2018-02-22,MG
+P0168,Xiao,Xia,en,unknown,,,,,,,,,,,,SS00133,ONLINE SOURCE,,,,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
 P0168,小,霞,zh,,,,,,,,,,,,,SS00133,ONLINE SOURCE,,,,,2018-02-19,MG,2018-02-22,MG
-P0169,Wang,Hanying,en,,,,,,,,,,,,,SS00207,ONLINE SOURCE,,,,,2017-10-03,MG,2018-02-22,MG
-P0169,汪,含英,zh,,,,,,,,,,,,,SS00207,ONLINE SOURCE,,,,,2018-02-19,MG,2018-02-22,MG
-P0171,Teacher Ling,,en,,,,,,,,,,,,,SS00006,136?,,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe.,2017-10-03,MG,2018-02-19,MG
-P0171,凌老师,,zh,,,,,,,,,,,,,SS00006,136?,,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe.,2017-10-03,MG,2018-02-19,MG
-P0172,,Zhenzhen,en,,,,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
-P0173,Liu,Nina,en,,,,,,,,,,,,,SS00006,137,,,,,2017-10-03,MG,2018-02-22,MG
-P0173,刘,妮娜,zh,,,,,,,,,,,,,SS00006,137,,,,,2017-10-03,MG,2018-02-22,MG
+P0169,Wang,Hanying,en,unknown,,,,,,,,,,,,SS00207,ONLINE SOURCE,,,,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
+P0169,汪,含英,zh,unknown,,,,,,,,,,,CHECK GENDER,SS00207,ONLINE SOURCE,,,,,2018-02-19,MG,2018-07-31,DP
+P0171,Teacher Ling,,en,unknown,,,,,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
+P0171,凌老师,,zh,unknown,,,,,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
+P0172,,Zhenzhen,en,unknown,,,,,,,,,,,,,,,,,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
+P0173,Liu,Nina,en,female,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,,NULL,NULL,SS00006,137,,,,,2017-10-03,MG,2018-07-04,MG
+P0173,刘,妮娜,zh,female,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,,NULL,NULL,SS00006,137,,,,,2017-10-03,MG,2018-07-04,MG
 P0174,Mao,Zedong,en,male,NULL,NULL,NULL,NULL,1893,1976,NULL,NULL,PL0080,NULL,NULL,https://en.wikipedia.org/wiki/Mao_Zedong,ONLINE SOURCE,,,,,2017-10-03,MG,2017-12-23,MG
 P0174,毛,泽东,zh,male,NULL,NULL,NULL,NULL,1893,1976,NULL,NULL,PL0080,NULL,NULL,https://en.wikipedia.org/wiki/Mao_Zedong,ONLINE SOURCE,,,,,2017-10-03,MG,2017-12-23,MG
-P0175,Peng,Yilin,en,,,,,,,,,,,,,SS00154,532,,,,,2017-10-03,MG,2018-02-22,MG
+P0175,Peng,Yilin,en,unknown,,,,,,,,,,,,SS00154,532,,,,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
 P0176,Dedijer,Vladimir,en,male,NULL,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0088,NULL,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,ONLINE SOURCE,,,,,2017-10-08,MG,2017-12-23,MG
 P0176,杰吉耶尔,弗拉吉米尔,zh,male,NULL,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0088,NULL,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,ONLINE SOURCE,,,,,2017-10-08,MG,2017-12-23,MG
 P0177,De Santis,Giuseppe,it,male,NULL,NULL,NULL,NULL,1917,1997,NULL,NULL,PL0086,NULL,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,ONLINE SOURCE,,,,,2017-10-08,MG,2017-12-23,MG
@@ -402,19 +401,19 @@ P0219,Tang,Xiaofeng,en,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https:
 P0219,唐,晓峰,zh,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
 P0220,Qian ,Dachuan,en,male,unknown,unknown,unknown,unknown,1952,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-03-13,WH
 P0220,钱,大川,zh,male,unknown,unknown,unknown,unknown,1952,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-03-13,WH
-P0250,Ehrenburg,Ilya,en,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
-P0250,Эренбу́рг ,Илья́ ,ru,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
-P0250,爱伦堡,伊利亚,zh,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
-P0251,Eliot,T.S.,en,male,NULL,NULL,NULL,NULL,1888,1965,NULL,NULL,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0251,艾略特,T.S.,zh,male,NULL,NULL,NULL,NULL,1888,1965,托·史·艾略特 ,zh,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0252,Éluard,Paul,en,male,NULL,NULL,NULL,NULL,1895,1952,Eugène Émile Paul Grindel,en,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
-P0252,艾吕雅,保尔,zh,male,NULL,NULL,NULL,NULL,1895,1952,欧仁·埃米尔·保罗·格林德尔,zh,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
-P0253,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0253,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0254,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
-P0254,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
-P0255,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
-P0255,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
+P0635,Ehrenburg,Ilya,en,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-07-24,MG
+P0635,Эренбу́рг ,Илья́ ,ru,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-07-24,MG
+P0635,爱伦堡,伊利亚,zh,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-07-24,MG
+P0636,Eliot,T.S.,en,male,NULL,NULL,NULL,NULL,1888,1965,NULL,NULL,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0636,艾略特,T.S.,zh,male,NULL,NULL,NULL,NULL,1888,1965,托·史·艾略特 ,zh,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0637,Éluard,Paul,en,male,NULL,NULL,NULL,NULL,1895,1952,Eugène Émile Paul Grindel,en,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-07-24,MG
+P0637,艾吕雅,保尔,zh,male,NULL,NULL,NULL,NULL,1895,1952,欧仁·埃米尔·保罗·格林德尔,zh,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-07-24,MG
+P0638,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0638,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0639,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-07-24,MG
+P0639,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-07-24,MG
+P0640,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-07-24,MG
+P0640,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-07-24,MG
 P0221,Li,Ling,en,male,yes,1968,1975,PL0130,1948,,NULL,NULL,PL0129,unknown,yes,SS00170,235,,,Grew up in Beijing. From 1971-1975 he was rusticated in Wuxiang 武乡 (Shanxi).,,2018-02-01,OS,2018-02-07,WH
 P0221,李,零,zh,male,yes,1968,1975,PL0130,1948,,NULL,NULL,PL0129,unknown,yes,SS00170,235,,,Grew up in Beijing. From 1971-1975 he was rusticated in Wuxiang 武乡 (Shanxi).,,2018-02-01,OS,2018-02-07,WH
 P0222,Kautsky,Karl,en,male,NULL,NULL,NULL,NULL,1854,1938,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Karl_Kautsky,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
@@ -530,9 +529,9 @@ P0272,Lermontov,Mikhail ,en,male,NULL,NULL,NULL,NULL,1814,1841,NULL,NULL,PL0027
 P0272,Ле́рмонтов,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1814,1841,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Lermontov,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0272,莱蒙托夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1814,1841,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Lermontov,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0273,Gu,Yunpu,en,male,no,NULL,NULL,NULL,1931,,NULL,NULL,PL0181,NULL,NULL,https://baike.baidu.com/item/%E9%A1%BE%E8%95%B4%E7%92%9E,ONLINE SOURCE,,,,,2018-02-27,OS,2018-03-13,WH
-P0273,顾,蕴璞,zh ,male,no,NULL,NULL,NULL,1931,,NULL,NULL,PL0181,NULL,NULL,https://baike.baidu.com/item/%E9%A1%BE%E8%95%B4%E7%92%9E,ONLINE SOURCE,,,,,2018-02-27,OS,2018-03-13,WH
+P0273,顾,蕴璞,zh,male,no,NULL,NULL,NULL,1931,,NULL,NULL,PL0181,NULL,NULL,https://baike.baidu.com/item/%E9%A1%BE%E8%95%B4%E7%92%9E,ONLINE SOURCE,,,,,2018-02-27,OS,2018-03-13,WH
 P0274,Kang,Zhengguo,en,male,yes,1967,,,1944,,NULL,NULL,PL0182,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,not in a real zhiqing. He was sentenced to 3 years of laogai in 1964 and used to live on the countryside close to Xi'an  from 1967 onwards for a longer time.,,2018-02-27,OS,2018-02-27,OS
-P0274,康,正果,zh ,male,yes,1967,,,1944,,NULL,NULL,PL0182,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,not in a real zhiqing. He was sentenced to 3 years of laogai in 1964 and used to live on the countryside close to Xi'an  from 1967 onwards for a longer time.,,2018-02-27,OS,2018-02-27,OS
+P0274,康,正果,zh,male,yes,1967,,,1944,,NULL,NULL,PL0182,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,not in a real zhiqing. He was sentenced to 3 years of laogai in 1964 and used to live on the countryside close to Xi'an  from 1967 onwards for a longer time.,,2018-02-27,OS,2018-02-27,OS
 P0275,Li,Daoyuan,en,male,NULL,NULL,NULL,NULL,0466..0472,0527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0275,郦,道元,zh,male,NULL,NULL,NULL,NULL,0466..0472,0527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0276,Zhao ,Yuesheng,en,male,no,NULL,NULL,NULL,1955~,,,,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
@@ -707,33 +706,33 @@ P0372,Zweig,Stefan,en,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,N
 P0372,茨威格,斯蒂芬,zh,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
 P0373,Ji,Kun,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,unknown,NULL,SS00061,ONLINE SOURCE,,,,,2018-05-23,MG,2018-05-23,MG
 P0373,纪,琨,zh,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,unknown,NULL,SS00061,ONLINE SOURCE,,,,,2018-05-23,MG,2018-05-23,MG
-P0374,Remarque,Erich Maria,de,male,NULL,NULL,NULL,NULL,1898,1970,NULL,NULL,PL0242,NULL,NULL,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0374,雷马克,埃里希 玛利亚,zh,male,NULL,NULL,NULL,NULL,1898,1970,NULL,NULL,PL0242,NULL,NULL,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0375,Renoir,Pierre-Auguste,fr,male,NULL,NULL,NULL,NULL,1841,1919,Auguste Renoir,fr,PL0243,NULL,NULL,https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0375,雷諾瓦,皮耶-奧古斯特,zh,male,NULL,NULL,NULL,NULL,1841,1919,奧古斯特 雷諾瓦,zh,PL0243,NULL,NULL,https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0376,Repin,Ilya Yafimovich,en,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0376,Ре́пин,Илья́ Ефи́мович,ru,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0376,列宾,伊利亚 叶菲莫维奇,zh,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0374,Remarque,Erich Maria,de,male,NULL,NULL,NULL,NULL,1898,1970,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0374,雷马克,埃里希 玛利亚,zh,male,NULL,NULL,NULL,NULL,1898,1970,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0375,Renoir,Pierre-Auguste,fr,male,NULL,NULL,NULL,NULL,1841,1919,Auguste Renoir,fr,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0375,雷諾瓦,皮耶-奧古斯特,zh,male,NULL,NULL,NULL,NULL,1841,1919,奧古斯特 雷諾瓦,zh,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0376,Repin,Ilya Yafimovich,en,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0288,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0376,Ре́пин,Илья́ Ефи́мович,ru,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0288,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0376,列宾,伊利亚 叶菲莫维奇,zh,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0288,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
 P0377,Rilke,Rainer Maria,en,male,NULL,NULL,NULL,NULL,1875,1926,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Rainer_Maria_Rilke,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
 P0377,里尔克,莱纳 玛利亚,zh,male,NULL,NULL,NULL,NULL,1875,1926,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Rainer_Maria_Rilke,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0378,Rimbaud,Arthur,fr,male,NULL,NULL,NULL,NULL,1854,1891,NULL,NULL,PL0245,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Rimbaud,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0378,兰波,阿蒂尔,zh,male,NULL,NULL,NULL,NULL,1854,1891,NULL,NULL,PL0245,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Rimbaud,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0379,Rimsky-Korsakov,Nikolay Andreyevich,en,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0379,Римский-Корсаков,Николай Андреевич,ru,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0379,里姆斯基-科萨科夫,尼古拉 安德烈耶维奇,zh,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0380,Rolland,Romain,fr,male,NULL,NULL,NULL,NULL,1866,1944,NULL,NULL,PL0247,NULL,NULL,https://en.wikipedia.org/wiki/Romain_Rolland,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
-P0380,罗兰,罗曼,zh,male,NULL,NULL,NULL,NULL,1866,1944,NULL,NULL,PL0247,NULL,NULL,https://en.wikipedia.org/wiki/Romain_Rolland,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0378,Rimbaud,Arthur,fr,male,NULL,NULL,NULL,NULL,1854,1891,NULL,NULL,PL0289,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Rimbaud,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0378,兰波,阿蒂尔,zh,male,NULL,NULL,NULL,NULL,1854,1891,NULL,NULL,PL0289,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Rimbaud,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0379,Rimsky-Korsakov,Nikolay Andreyevich,en,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0290,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0379,Римский-Корсаков,Николай Андреевич,ru,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0290,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0379,里姆斯基-科萨科夫,尼古拉 安德烈耶维奇,zh,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0290,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0380,Rolland,Romain,fr,male,NULL,NULL,NULL,NULL,1866,1944,NULL,NULL,PL0291,NULL,NULL,https://en.wikipedia.org/wiki/Romain_Rolland,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
+P0380,罗兰,罗曼,zh,male,NULL,NULL,NULL,NULL,1866,1944,NULL,NULL,PL0291,NULL,NULL,https://en.wikipedia.org/wiki/Romain_Rolland,ONLINE SOURCE,,,,,2018-05-28,MG,2018-07-04,MG
 P0381,Ma,Bo,en,male,yes,1968,1976,PL0111,1947,,Old Ghost,en,PL0076,,,https://en.wikipedia.org/wiki/Ma_Bo,ONLINE SOURCE,SS00249,,,,2018-05-29,MG,2018-05-30,MG
 P0381,马,波 ,zh,male,yes,1968,1976,PL0111,1947,,老鬼 ,zh,PL0076,,,https://en.wikipedia.org/wiki/Ma_Bo,ONLINE SOURCE,SS00249,,,,2018-05-29,MG,2018-05-30,MG
-P0382,Romm,Mikhail ,en,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-05-30,MG
-P0382,Ромм,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-05-30,MG
-P0382,罗姆,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-05-30,MG
-P0383,Rommel,Erwin,de,male,NULL,NULL,NULL,NULL,1891,1944,Desert Fox,en,PL0249,NULL,NULL,https://en.wikipedia.org/wiki/Erwin_Rommel,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
-P0383,隆美尔,埃尔温,zh,male,NULL,NULL,NULL,NULL,1891,1944,沙漠之狐,zh,PL0249,NULL,NULL,https://en.wikipedia.org/wiki/Erwin_Rommel,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
-P0384,Rousseau ,Jean-Jacques,fr,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL0250,NULL,NULL,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
-P0384,卢梭,让-雅克,zh,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL0250,NULL,NULL,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
-P0385,Russell,Bertrand,en,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
-P0385,罗素,伯特兰,zh,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
+P0382,Romm,Mikhail ,en,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0292,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-07-04,MG
+P0382,Ромм,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0292,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-07-04,MG
+P0382,罗姆,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0292,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-07-04,MG
+P0383,Rommel,Erwin,de,male,NULL,NULL,NULL,NULL,1891,1944,Desert Fox,en,PL0293,NULL,NULL,https://en.wikipedia.org/wiki/Erwin_Rommel,ONLINE SOURCE,,,,,2018-06-01,MG,2018-07-04,MG
+P0383,隆美尔,埃尔温,zh,male,NULL,NULL,NULL,NULL,1891,1944,沙漠之狐,zh,PL0293,NULL,NULL,https://en.wikipedia.org/wiki/Erwin_Rommel,ONLINE SOURCE,,,,,2018-06-01,MG,2018-07-04,MG
+P0384,Rousseau ,Jean-Jacques,fr,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau,ONLINE SOURCE,,,,,2018-06-01,MG,2018-07-04,MG
+P0384,卢梭,让-雅克,zh,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau,ONLINE SOURCE,,,,,2018-06-01,MG,2018-07-04,MG
+P0385,Russell,Bertrand,en,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0295,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-07-04,MG
+P0385,罗素,伯特兰,zh,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0295,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-07-04,MG
 P0386,Pu ,Songling,en,male,NULL,NULL,NULL,NULL,1640,1715,NULL,NULL,PL0266,NULL,NULL,https://en.wikipedia.org/wiki/Pu_Songling,ONLINE SOURCE,,,,,2018-06-04,MG,2018-06-04,MG
 P0386,蒲,松龄,zh,male,NULL,NULL,NULL,NULL,1640,1715,NULL,NULL,PL0266,NULL,NULL,https://en.wikipedia.org/wiki/Pu_Songling,ONLINE SOURCE,,,,,2018-06-04,MG,2018-06-04,MG
 P0387,Presley,Elvis,en,male,NULL,NULL,NULL,NULL,1935,1977,NULL,NULL,PL0267,NULL,NULL,https://en.wikipedia.org/wiki/Elvis_Presley,ONLINE SOURCE,,,,,2018-06-04,MG,2018-06-04,MG
@@ -780,219 +779,41 @@ P0404,Kern,Jerome,en,male,NULL,NULL,NULL,NULL,1885,1945,NULL,NULL,PL0050,NULL,NU
 P0404,克尔恩,杰罗姆,zh,male,NULL,NULL,NULL,NULL,1885,1945,NULL,NULL,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Jerome_Kern,ONLINE SOURCE,,,,,2018-06-12,MG,2018-06-12,MG
 P0405,Hammerstein II,Oscar,en,male,NULL,NULL,NULL,NULL,1895,1960,NULL,NULL,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Oscar_Hammerstein_II,ONLINE SOURCE,,,,,2018-06-12,MG,2018-06-12,MG
 P0405,漢默斯坦二世,奧斯卡,zh,male,NULL,NULL,NULL,NULL,1895,1960,NULL,NULL,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Oscar_Hammerstein_II,ONLINE SOURCE,,,,,2018-06-12,MG,2018-06-12,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0406,Lei,Feng,en,male,NULL,NULL,NULL,NULL,1940,1962,NULL,NULL,PL0280,NULL,NULL,https://en.wikipedia.org/wiki/Lei_Feng,ONLINE SOURCE,,,,,2018-06-19,MG,2018-06-19,MG
+P0406,雷,峰,zh,male,NULL,NULL,NULL,NULL,1940,1962,NULL,NULL,PL0280,NULL,NULL,https://en.wikipedia.org/wiki/Lei_Feng,ONLINE SOURCE,,,,,2018-06-19,MG,2018-06-19,MG
+P0407,Lu,Shu Jiang,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00250,,,,,,2018-06-19,MG,2018-06-28,MG
+P0408,Li,Jieren,en,male,NULL,NULL,NULL,NULL,1891,1962,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Li_Jieren,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0408,李,劼人,zh,male,NULL,NULL,NULL,NULL,1891,1962,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Li_Jieren,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0409,Li,Qingzhao,en,female,NULL,NULL,NULL,NULL,1084,1155..1156,NULL,NULL,PL0153,NULL,NULL,https://en.wikipedia.org/wiki/Li_Qingzhao,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0409,李,清照,zh,female,NULL,NULL,NULL,NULL,1084,1155..1156,NULL,NULL,PL0153,NULL,NULL,https://en.wikipedia.org/wiki/Li_Qingzhao,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0410,Li,Jun,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,,,,,,,2018-06-25,MG,2018-06-28,MG
+P0410,李,俊,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,,,,,,,2018-06-25,MG,2018-06-28,MG
+P0411,Feng,Jicai,en,male,unknown,NULL,NULL,NULL,1942,,NULL,NULL,PL0018,NULL,NULL,https://en.wikipedia.org/wiki/Feng_Jicai,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0411,冯,骥才,zh,male,unknown,NULL,NULL,NULL,1942,,NULL,NULL,PL0018,NULL,NULL,https://en.wikipedia.org/wiki/Feng_Jicai,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0412,A,Cheng,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,,,,,,,2018-06-26,MG,2018-06-28,MG
+P0412,阿,城,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,,,,,,,2018-06-26,MG,2018-06-28,MG
+P0413,Luo,Guangbin,en,male,unknown,NULL,NULL,NULL,1926,1967,NULL,NULL,PL0012,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B9%BF%E6%96%8C,ONLINE SOURCE,,,,,2018-06-28,MG,2018-06-28,MG
+P0413,罗,广斌,zh,male,unknown,NULL,NULL,NULL,1926,1967,NULL,NULL,PL0012,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B9%BF%E6%96%8C,ONLINE SOURCE,,,,,2018-06-28,MG,2018-06-28,MG
+P0414,García Lorca,Federico,es,male,NULL,NULL,NULL,NULL,1898,1936,NULL,NULL,PL0282,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca,ONLINE SOURCE,,,,,2018-06-28,MG,2018-06-28,MG
+P0414,加西亚 洛尔卡,费德里戈,zh,male,NULL,NULL,NULL,NULL,1898,1936,NULL,NULL,PL0282,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca,ONLINE SOURCE,,,,,2018-06-28,MG,2018-06-28,MG
+P0415,Osborne,John,en,male,NULL,NULL,NULL,NULL,1929,1994,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Osborne,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0415,奥斯本,,zh,male,NULL,NULL,NULL,NULL,1929,1994,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Osborne,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0416,Ormandy,Eugene,en,male,NULL,NULL,NULL,NULL,1899,1985,Jenő Blau,en,PL0126,NULL,NULL,https://en.wikipedia.org/wiki/Eugene_Ormandy,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0416,奥曼迪,尤金,zh,male,NULL,NULL,NULL,NULL,1899,1985,言 布勞,zh,PL0126,NULL,NULL,https://en.wikipedia.org/wiki/Eugene_Ormandy,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0417,Nobel,Alfred,en,male,NULL,NULL,NULL,NULL,1833,1896,NULL,NULL,PL0283,NULL,NULL,https://en.wikipedia.org/wiki/Alfred_Nobel,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0417,诺贝尔,阿尔弗雷德,zh,male,NULL,NULL,NULL,NULL,1833,1896,NULL,NULL,PL0283,NULL,NULL,https://en.wikipedia.org/wiki/Alfred_Nobel,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0418,Neruda,Pablo,es,male,NULL,NULL,NULL,NULL,1904,1973,NULL,NULL,PL0284,NULL,NULL,https://en.wikipedia.org/wiki/Pablo_Neruda,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0418,聂鲁达,巴勃罗,zh,male,NULL,NULL,NULL,NULL,1904,1973,NULL,NULL,PL0284,NULL,NULL,https://en.wikipedia.org/wiki/Pablo_Neruda,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0419,Nietzsche,Friedrich,de,male,NULL,NULL,NULL,NULL,1844,1900,NULL,NULL,PL0285,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Nietzsche,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0419,尼采,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1844,1900,NULL,NULL,PL0285,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Nietzsche,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0420,Nekrasov,Nikolay,en,male,NULL,NULL,NULL,NULL,1821,1878,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Nekrasov,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0420,Некра́сов,Никола́й,ru,male,NULL,NULL,NULL,NULL,1821,1878,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Nekrasov,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0420,涅克拉索夫,尼古拉,zh,male,NULL,NULL,NULL,NULL,1821,1878,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Nekrasov,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0622,Ma,Yanxiang,en,male,unknown,NULL,NULL,NULL,1907,1988,NULL,NULL,PL0003,NULL,NULL,https://baike.baidu.com/item/%E9%A9%AC%E5%BD%A6%E7%A5%A5,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0622,马,彦祥,zh,male,unknown,NULL,NULL,NULL,1907,1988,NULL,NULL,PL0003,NULL,NULL,https://baike.baidu.com/item/%E9%A9%AC%E5%BD%A6%E7%A5%A5,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0623,Makarenko,Anton,en,male,NULL,NULL,NULL,NULL,1888,1939,NULL,NULL,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Makarenko,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0623,Мака́ренко,Анто́н,ru,male,NULL,NULL,NULL,NULL,1888,1939,NULL,NULL,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Makarenko,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0623,马卡连柯,安东,zh,male,NULL,NULL,NULL,NULL,1888,1939,NULL,NULL,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Makarenko,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
 P0521,Edison,Thomas,en,male,NULL,NULL,NULL,NULL,1847,1931,NULL,NULL,PL0351,NULL,,https://zh.wikipedia.org/wiki/%E7%88%B1%E8%BF%AA%E7%94%9F,,,,,,2018-04-26,WH,2018-04-26,WH
 P0521,爱迪生,托马斯,zh,male,NULL,NULL,NULL,NULL,1847,1931,NULL,NULL,PL0351,NULL,,https://zh.wikipedia.org/wiki/%E7%88%B1%E8%BF%AA%E7%94%9F,,,,,,2018-04-26,WH,2018-04-26,WH
 P0522,Fechin,Nicolai,en,male,NULL,NULL,NULL,NULL,1881,1955,,,PL0026,,,https://en.wikipedia.org/wiki/Nicolai_Fechin,,https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%B4%B9%E7%94%B3,,,,2018-05-03,WH,2018-05-03,WH
@@ -1002,3 +823,38 @@ P0523,Feng,Zhi,en,male,NULL,NULL,NULL,NULL,1905,1993,Feng Chengzhi,en,PL0183,,,h
 P0523,冯,至,zh,male,NULL,NULL,NULL,NULL,1905,1993,冯承植,zh,PL0183,,,https://zh.wikipedia.org/wiki/%E5%86%AF%E8%87%B3,,,,,,2018-05-03,WH,2018-05-03,WH
 P0524,Fu,Chongju,en,male,NULL,NULL,NULL,NULL,1875,1917,,,PL0352,,,https://book.douban.com/subject/1733761/,,,,,,2018-05-03,WH,2018-05-03,WH
 P0524,傅,崇矩,zh,male,NULL,NULL,NULL,NULL,1875,1917,,,PL0352,,,https://book.douban.com/subject/1733761/,,,,,,2018-05-03,WH,2018-05-03,WH
+P0525,Rembrandt,Harmenszoon van Rijn,en,male,NULL,NULL,NULL,NULL,1606,1669,NULL,NULL,PL0353,,,https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%8B%83%E6%9C%97,,,,,,2018-06-21,WH,2018-06-21,WH
+P0525,伦勃朗,哈尔曼松·范·莱因,zh,male,NULL,NULL,NULL,NULL,1606,1669,NULL,NULL,PL0353,,,https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%8B%83%E6%9C%97,,,,,,2018-06-21,WH,2018-06-21,WH
+P0526,Han,Yu,en,male,NULL,NULL,NULL,NULL,0768,0824,NULL,NULL,PL0354,,,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,,2018-06-21,WH,2018-06-21,WH
+P0526,韩,愈,zh,male,NULL,NULL,NULL,NULL,0768,0824,NULL,NULL,PL0354,,,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,,2018-06-21,WH,2018-06-21,WH
+P0527,Huang,Zongxi,en,male,NULL,NULL,NULL,NULL,1610,1695,NULL,NULL,PL0355,,,https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AE%97%E7%BE%B2,,,,,,2018-07-09,WH,2018-07-09,WH
+P0527,黄,宗羲,zh,male,NULL,NULL,NULL,NULL,1610,1695,NULL,NULL,PL0355,,,https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AE%97%E7%BE%B2,,,,,,2018-07-09,WH,2018-07-09,WH
+P0528,Huang,Yuxiang,en,male,no,NULL,NULL,NULL,1940~,1940~,NULL,NULL,PL0356,,,http://news.ifeng.com/history/2/200709/0903_336_210958_1.shtml,,,,,,2018-07-10,WH,2018-07-10,WH
+P0528,黄,钰祥,zh,male,no,NULL,NULL,NULL,1940~,1940~,NULL,NULL,PL0356,,,http://news.ifeng.com/history/2/200709/0903_336_210958_1.shtml,,,,,,2018-07-10,WH,2018-07-10,WH
+P0529,Hume,David,en,male,NULL,NULL,NULL,NULL,1711,1776,NULL,NULL,PL0121,,,https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F,,,,,,2018-07-12,WH,2018-07-12,WH
+P0529,休谟,大卫,zh,male,NULL,NULL,NULL,NULL,1711,1776,NULL,NULL,PL0121,,,https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F,,,,,,2018-07-12,WH,2018-07-12,WH
+P0624,Huang,Ziping,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00253,319-330,,,,,2018-07-10,MG,2018-07-17,MG
+P0624,黄,子平,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00253,319-330,,,,,2018-07-10,MG,2018-07-17,MG
+P0625,Xu,Bing,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00254,13-30,,,,,2018-07-10,MG,2018-07-17,MG
+P0625,徐,冰,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00254,13-30,,,,,2018-07-10,MG,2018-07-17,MG
+P0626,Marcuse,Herbert,en,male,NULL,NULL,NULL,NULL,1898,1979,NULL,NULL,PL0063,NULL,NULL,https://en.wikipedia.org/wiki/Herbert_Marcuse,ONLINE SOURCE,,,,,2018-07-13,MG,2018-07-17,MG
+P0626,马尔库塞,赫伯特,zh,male,NULL,NULL,NULL,NULL,1898,1979,NULL,NULL,PL0063,NULL,NULL,https://en.wikipedia.org/wiki/Herbert_Marcuse,ONLINE SOURCE,,,,,2018-07-13,MG,2018-07-17,MG
+P0627,Shulman,Norman,en,male,unknown,NULL,NULL,NULL,,,NULL,NULL,,NULL,NULL,,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0628,Mathiez,Albert,fr,male,NULL,NULL,NULL,NULL,1874,1932,NULL,NULL,PL0289,NULL,NULL,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0628,马迪厄,,zh,male,NULL,NULL,NULL,NULL,1874,1932,NULL,NULL,PL0289,NULL,NULL,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0621,Mehring,Franz,en,male,NULL,NULL,NULL,NULL,1846,1919,NULL,NULL,PL0290,NULL,NULL,https://en.wikipedia.org/wiki/Franz_Mehring,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0621,梅林,弗兰茨,zh,male,NULL,NULL,NULL,NULL,1846,1919,NULL,NULL,PL0290,NULL,NULL,https://en.wikipedia.org/wiki/Franz_Mehring,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0629,Mengzi,,en,male,NULL,NULL,NULL,NULL,0372,0289,Mencius,en,PL0291,NULL,NULL,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0629,孟子,,zh,male,NULL,NULL,NULL,NULL,0372,0289,NULL,NULL,PL0291,NULL,NULL,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0630,Mérimée,Prosper,fr,male,NULL,NULL,NULL,NULL,1803,1870,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0630,梅里美,普羅斯佩,zh,male,NULL,NULL,NULL,NULL,1803,1870,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0631,Michelet,Jules,fr,male,NULL,NULL,NULL,NULL,1798,1874,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Jules_Michelet,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0631,米什莱,儒勒,zh,male,NULL,NULL,NULL,NULL,1798,1874,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Jules_Michelet,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0632,Mickiewicz,Adam,pl,male,NULL,NULL,NULL,NULL,1798,1855,NULL,NULL,PL0292,NULL,NULL,https://en.wikipedia.org/wiki/Adam_Mickiewicz,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0632,密茨凯维奇,亚当,zh,male,NULL,NULL,NULL,NULL,1798,1855,NULL,NULL,PL0292,NULL,NULL,https://en.wikipedia.org/wiki/Adam_Mickiewicz,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0633,Mitchell,Margaret,en,female,NULL,NULL,NULL,NULL,1900,1949,Peggy Mitchell,en,PL0293,NULL,NULL,https://en.wikipedia.org/wiki/Margaret_Mitchell,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0633,米切尔,玛格丽特,zh,female,NULL,NULL,NULL,NULL,1900,1949,NULL,NULL,PL0293,NULL,NULL,https://en.wikipedia.org/wiki/Margaret_Mitchell,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0634,de Secondat,Charles-Louis,fr,male,NULL,NULL,NULL,NULL,1689,1755,Montesquieu,fr,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Montesquieu,ONLINE SOURCE,,,,,2018-07-23,MG,2018-07-23,MG
+P0634,德 塞孔达,夏尔 路易,zh,male,NULL,NULL,NULL,NULL,1689,1755,孟德斯鸠,zh,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Montesquieu,ONLINE SOURCE,,,,,2018-07-23,MG,2018-07-23,MG
+P0641,Guo,Moruo,en,male,NULL,NULL,NULL,NULL,1892,1978,Dingtang,en,PL0134,NULL,NULL,https://en.wikipedia.org/wiki/Guo_Moruo,ONLINE SOURCE,,,,,2018-07-24,MG,2018-07-24,MG
+P0641,郭,沫若,zh,male,NULL,NULL,NULL,NULL,1892,1978,鼎堂,zh,PL0134,NULL,NULL,https://en.wikipedia.org/wiki/Guo_Moruo,ONLINE SOURCE,,,,,2018-07-24,MG,2018-07-24,MG
