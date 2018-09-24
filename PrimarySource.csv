@@ -260,9 +260,6 @@ PS00202,Черные сухари ,,ru,P0235,G04 ,PL0063,1962,Dietz Verlag,,NULL
 PS00203,Le Comte de Monte-Cristo ,,fr,P0236,G04 ,PL0003,1930,Shangwu yinshuguan,,NULL,,,,An early PRC edition could not be found,,2018-02-06,OS,2018-02-06,OS
 PS00203,Jidushan bojue,,zh-Latn-pinyin,P0236,G04 ,PL0003,1930,Shangwu yinshuguan,,NULL,,,,An early PRC edition could not be found,,2018-04-25,MG,2018-05-29,WH
 PS00203,基督山伯爵 ,,zh,P0236,G04 ,PL0003,1930,Shangwu yinshuguan,,NULL,,,,An early PRC edition could not be found,,2018-02-06,OS,2018-02-06,OS
-PS00204,La Dame aux Camélias ,,fr,P0236,G04 ,PL0002,1955,Zuojia chubanshe,,no,,,,,,2018-02-06,OS,2018-02-06,OS
-PS00204,Chahuanv,,zh-Latn-pinyin,P0236,G04 ,PL0002,1955,Zuojia chubanshe,,no,,,,,,2018-04-25,MG,2018-05-29,WH
-PS00204,茶花女 ,,zh,P0236,G04 ,PL0002,1955,Zuojia chubanshe,,no,,,,,,2018-02-06,OS,2018-02-06,OS
 PS00206,The Song of the Sea,,en,P0023,G10,NULL,1967,NULL,NULL,NULL,,,,written in 1967. not officially published,,2018-02-09,OS,2018-04-18,MG
 PS00206,Haiyang zhi ge,,zh-Latn-pinyin,P0023,G10,NULL,1967,NULL,NULL,NULL,,,,written in 1967. not officially published,,2018-04-25,MG,2018-05-29,WH
 PS00206,海洋之歌,,zh,P0023,G10,NULL,1967,NULL,NULL,NULL,,,,written in 1967. not officially published,,2018-02-09,OS,2018-02-09,OS
@@ -429,9 +426,9 @@ PS00269,Story of the Golden Monkey,,en,P0290,G04,,,,,,PS00263,,,,maybe a part of
 PS00270,The Scalpel; the Sword,The Story of Doctor Norman Bethune,en,P0295,G02,PL0002,1979,Sanlian shudian,,,,,,Co-author: Sydney Gordon,,2018-03-13,MG,2018-03-13,MG
 PS00270,Shoushudao jiushi wuqi,,zh-Latn-pinyin,P0295,G02,PL0002,1979,Sanlian shudian,,,,,,Co-author: Sydney Gordon,,2018-04-26,MG,2018-05-29,WH
 PS00270,手术刀就是武器,白求恩大夫的故事,zh,P0295,G02,PL0002,1979,Sanlian shudian,,,,,,Co-author: Sydney Gordon,,2018-03-14,MG,2018-03-14,MG
-PS00271,The Sun Shines over the Sanggan River,,en,P0299,G04,PL0002,1956,Renmin wenxue chubanshe,,,,,,,,2018-03-17,WH,2018-03-17,WH
-PS00271,Taiyang zhao zai Sanggan he shang,,zh-Latn-pinyin,P0299,G04,PL0002,1956,Renmin wenxue chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
-PS00271,太阳照在桑干河上,,zh,P0299,G04,PL0002,1956,Renmin wenxue chubanshe,,,,,,,,2018-03-17,WH,2018-03-17,WH
+PS00271,The Sun Shines over the Sanggan River,,en,P0299,G04,PL0002,1952,Renmin wenxue chubanshe,1948,,,,,,,2018-03-17,WH,2018-09-23,MG
+PS00271,Taiyang zhao zai Sanggan he shang,,zh-Latn-pinyin,P0299,G04,PL0002,1952,Renmin wenxue chubanshe,1948,,,,,,,2018-04-26,MG,2018-09-23,MG
+PS00271,太阳照在桑干河上,,zh,P0299,G04,PL0002,1952,Renmin wenxue chubanshe,1948,,,,,,,2018-03-17,WH,2018-09-23,MG
 PS00272,Xinan li,,zh-Latn-pinyin,P0302,G10,,,,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00272,新安吏,,zh,P0302,G10,,,,,,,,,,,2018-03-28,WH,2018-03-28,WH
 PS00273,Defend Yan’an,,en,P0303,G04,PL0002,1956,Renmin wenxue chubanshe,,,,,,,,2018-03-28,WH,2018-03-28,WH
@@ -460,10 +457,12 @@ PS00297,人间喜剧,,zh,P0092,G04,PL0003,1949,Haiyan shudian,,,,,,,,2018-03-23,
 PS00298,Red Star Over China,,en,P0330,G02,PL0003,1949,Jiliu chubanshe,1938,,,,,,,2018-03-27,MG,2018-03-29,MG
 PS00298,Xi xing man ji,,zh-Latn-pinyin,P0330,G02,PL0003,1949,Jiliu chubanshe,1938,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00298,西行漫记,,zh,P0330,G02,PL0003,1949,Jiliu chubanshe,1938,,,,,,,2018-03-27,MG,2018-03-29,MG
-PS00299,Ten Days That Shook the World,,en,P0331,,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-03-29,MG
-PS00299,Zhenhan shijie de shi tian,,zh-Latn-pinyin,P0331,,PL0002,1957,Renmin chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
-PS00299,震撼世界的十天,,zh,P0331,,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-03-29,MG
-PS00300,The Rout,,en,P0332,G04,,,,,,,,,also known as ‚The Nineteen‘,,2018-03-27,MG,2018-04-03,MG
+PS00299,Ten Days That Shook the World,,en,P0331,G42,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-08-12,MG
+PS00299,Zhenhan shijie de shi tian,,zh-Latn-pinyin,P0331,G42,PL0002,1957,Renmin chubanshe,,,,,,,,2018-04-26,MG,2018-08-12,MG
+PS00299,震撼世界的十天,,zh,P0331,G42,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-08-12,MG
+PS00300,The Rout,,en,P0332,G04,PL0003,1951,Yong xiang yin shu guan,,,,,,also known as ‚The Nineteen‘,,2018-03-27,MG,2018-08-12,MG
+PS00300,Hui mie,,zh-Latn-pinyin,P0332,G04,PL0003,1951,Yong xiang yin shu guan,,,,,,,,2018-08-12,MG,2018-08-12,MG
+PS00300,毁灭,,zh,P0332,G04,PL0003,1951,Yong xiang yin shu guan,,,,,,,,2018-08-12,MG,2018-08-12,MG
 PS00301,In Memory of Norman Bethune,,en,P0174,G01,PL0002,1963,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-04-03,MG
 PS00301,Jinian Baiqiuen,,zh-Latn-pinyin,P0174,G01,PL0002,1963,Renmin chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00301,纪念白求恩,为人民服务,zh,P0174,G01,PL0002,1963,Renmin chubanshe,,,,,,,,2018-04-03,MG,2018-04-03,MG
@@ -722,3 +721,7 @@ PS00485,论法的精神,,zh,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2
 PS00486,,,en,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
 PS00486,Bai hua qi fang,,zh-Latn-pinyin,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
 PS00486,百花齐放,,zh,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
+PS00487,The Fourth Height,,en,P0642,G04,,,,,no,,,,,,2018-08-16,MG,2018-08-16,MG
+PS00487,古丽娅的道路,,zh,P0642,G04,,,,,no,,,,,,2018-08-16,MG,2018-08-16,MG
+PS00488,A Doll's House,,en,P0643,G16,,,,,,,,,,,2018-08-16,MG,2018-08-16,MG
+PS00488,娜拉,,zh,P0643,G16,,,,,,,,,,,2018-08-16,MG,2018-08-16,MG
