@@ -95,12 +95,12 @@ PS00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem wa
 PS00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml. Translated by project member,,2017-09-15,MG,2018-01-18,MG
 PS00070,Jiu ji lang,,zh-Latn-pinyin,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2018-04-25,MG,2018-05-23,MG
 PS00070,九级浪,,zh,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
-PS00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,,534,Translated by project member,,2017-09-15,MG,2018-01-12,MG
-PS00071,Xian gei Aiqinhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2018-04-25,MG,2018-05-29,WH
-PS00071,献给爱琴海,,zh,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
-PS00072,For a Sick boy,,en,P0102,G10,,,,,,,,536,Translated by project member,,2017-09-15,MG,2018-04-18,MG
-PS00072,Gei yi ge you bing de xiao nanhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,,2018-04-25,MG,2018-05-23,MG
-PS00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,,2017-09-15,MG,2018-01-12,MG
+PS00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,,534,Translated by project member,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
+PS00071,Xian gei Aiqinhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,"bad pointer see GH #300",2018-04-25,MG,2018-09-25,DP
+PS00071,献给爱琴海,,zh,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
+PS00072,For a Sick boy,,en,P0102,G10,,,,,,,,536,Translated by project member,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
+PS00072,Gei yi ge you bing de xiao nanhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,"bad pointer see GH #300",2018-04-25,MG,2018-09-25,DP
+PS00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
 PS00073,Room at the Top,,en,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
 PS00073,Wang shang pa,,zh-Latn-pinyin,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00073,往上爬,,zh,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
@@ -725,3 +725,11 @@ PS00488,A Doll's House,,en,P0643,G16,,,,,,,,,,,2018-08-16,MG,2018-08-16,MG
 PS00488,娜拉,,zh,P0643,G16,,,,,,,,,,,2018-08-16,MG,2018-08-16,MG
 PS00489,One Day in the Life of Ivan Denisovich,,en,P0227,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-10-16,LH,2018-10-16,LH
 PS00489,伊凡·杰尼索维奇的一天,,zh,P0227,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-10-16,LH,2018-10-16,LH
+PS00490,A Pair of Embroidered Shoes,,en,P0999,G06,,,,,,,,,Translated by project member.,Pay attention - there is also the shouchaoben An Embroidered Shoe published by Zhang Baorui,2018-10-24,MG,2018-10-24,MG
+PS00490,一双绣花鞋,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,MG
+PS00491,The Heat of a Young Girl,,en,P0999,G06,,,,,,,,,Translated by project member.,,2018-10-24,MG,2018-10-24,MG
+PS00491,少女的心,,zh,P0999,G06,,,,,,,,,or 少女之心,,2018-10-24,MG,2018-10-24,MG
+PS00492,Manna's Memories,,en,P0999,G06,,,,,,,,,Translated by project member.,,2018-10-24,MG,2018-10-24,MG
+PS00492,曼娜回忆录,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,MG
+PS00493,The Plum Blossom Party,,en,P0999,G06,,,,,,,,,Translated by project member.,,2018-10-24,MG,2018-10-24,MG
+PS00493,梅花党,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,MG
