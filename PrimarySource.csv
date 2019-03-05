@@ -740,9 +740,9 @@ PS00481,法国大革命史,,zh,P0628,G19,PL0002,1958,Sanlian shudian,,yes,,,,,,2
 PS00482,Karl Marx,Geschichte seines Lebens,de,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,MG
 PS00482,Makesi chuan,,zh-Latn-pinyin,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-23,MG
 PS00482,马克思传,,zh,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,MG
-PS00483,Histoire de France,,fr,P0631,G41,,1972,,,,,,,,,2018-07-20,MG,2018-07-23,MG
-PS00483,Faguo shi,,zh-Latn-pinyin,P0631,G41,,1972,,,,,,,,,2018-07-20,MG,2018-07-23,MG
-PS00483,法国史,,zh,P0631,G41,,1972,,,,,,,,,2018-07-20,MG,2018-07-23,MG
+PS00483,Histoire de France,,fr,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,MG
+PS00483,Faguo shi,,zh-Latn-pinyin,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,MG
+PS00483,法国史,,zh,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,MG
 PS00484,Gone With the Wind,,en,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier editions published in Taiwan,2018-07-20,MG,2018-07-20,MG
 PS00484,Piao,,zh-Latn-pinyin,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier editions published in Taiwan,2018-07-20,MG,2018-07-20,MG
 PS00484,飘,,zh,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier editions published in Taiwan,2018-07-20,MG,2018-07-20,MG
@@ -766,6 +766,7 @@ PS00492,Manna's Memories,,en,P0999,G06,,,,,,,,,Translated by project member.,,20
 PS00492,曼娜回忆录,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,MG
 PS00493,The Plum Blossom Party,,en,P0999,G06,,,,,,,,,Translated by project member.,,2018-10-24,MG,2018-10-24,MG
 PS00493,梅花党,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,MG
+PS00493,When the Sunset Disappears,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,MG
 PS00494,A Rainy Alley,,en,P0661,G10,,,,,,,,,the poem was written in 1927,,2018-11-14,MG,2018-11-14,MG
 PS00494,雨巷,,zh,P0661,G10,,,,,,,,,the poem was written in 1927,,2018-11-14,MG,2018-11-14,MG
 PS00500,World Affairs,,en,P0999,G52,PL0003,1934,Shijie zhishi chubanshe,1934,no,,,,,,2018-11-03,WH,2018-11-03,WH
@@ -1010,3 +1011,157 @@ PS00610,毛泽东的青年时代,,zh,P0675,G02,PL0999,unknown,unknown,,,,,,,I ju
 PS00611,普隆恰夫经理的故事,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-12-15,MG,2018-12-15,MG
 PS00612,Northern Song,,en,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-12-15,MG
 PS00612,钗头凤,,zh,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-12-15,MG
+PS00613,大竹林,,zh,P0695,G10,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-17,MG,2018-12-17,MG
+PS00614,毛主席语录,,zh,P0174,G24,PL0002,1964,Zhongguo renmin jie fang jun,,,,,,,,2018-12-30,MG,2018-12-30,MG
+PS00615,Farewell Leighton Stuart,,en,P0174,G01,,,,,,PS00475,,,,,2018-12-30,MG,2018-12-30,MG
+PS00615,别了 司徒雷登,,zh,P0174,G01,,,,,,PS00475,,,,,2018-12-30,MG,2018-12-30,MG
+PS00616,敦促杜聿明等投降书,,zh,P0174,G99,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-30,MG,2018-12-30,MG
+PS00617,毛选四卷的注解部分,,zh,P0174,G24,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-30,MG,2018-12-30,MG
+PS00372,White Silence,,en,P0440,G13,,,,,,,,,Title translation needed.,,2018-11-15,DM,2018-11-15,DM
+PS00372,白香词谱,,zh,P0440,G13,,,,,,,,,,,2018-11-15,DM,2018-11-15,DM
+PS00373,Records of the Grand Historian,,en,P0441,G41,,,,,,,,,,,2018-11-15,DM,2018-11-15,DM
+PS00373,史記,,zh,P0441,G41,,,,,,,,,,,2018-11-15,DM,2018-11-15,DM
+PS00374,An Announcement Letter to Ren An,,en,P0441,G15,,,,,,,,,"Translated by project member, please check.",,2018-11-15,DM,2018-11-15,DM
+PS00374,报任安书,,zh,P0441,G15,,,,,,,,,,,2018-11-15,DM,2018-11-15,DM
+PS00375,Feng Qiu Huang,,en,P0442,G51,,,,,,,,,Official English translation missing.,,2018-11-17,DM,2018-11-17,DM
+PS00375,凤求凰,,zh,P0442,G51,,,,,,,,,,,2018-11-17,DM,2018-11-17,DM
+PS00376,Zizhi Tongjian,,en,P0443,G41,,,,,,,,,,,2018-11-17,DM,2018-11-17,DM
+PS00376,资治通鉴,,zh,P0443,G41,,,,,,,,,,,2018-11-17,DM,2018-11-17,DM
+PS00377,The Living and the Dead,,en,P0444,G04,PL0002,1962,Zuojia chubanshe,1962,yes,,,,,,2018-11-17,DM,2018-11-17,DM
+PS00377,生者与死者,,zh,P0444,G04,PL0002,1962,Zuojia chubanshe,1962,yes,,,,,,2018-11-17,DM,2018-11-17,DM
+PS00378,鲁迅语录,,zh,P0447,G88,PL0003,1950,Shanghai lianyi chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-07,DM,2019-01-07,DM
+PS00378,Quotations from Lu Xun,,en,P0447,G88,PL0003,1950,Shanghai lianyi chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-07,DM,2019-01-07,DM
+PS00379,Der Untergang des Abendlandes,,de,P0448,G41,,1963,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00379,The Decline of the West,,en,P0448,G41,,1963,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00379,西方的没落,,zh,P0448,G41,,1963,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00380,History of the All-Union Communist Party (Bolsheviks),Short Course ,en,P0193,G20,,,,,,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00380,苏联共产党（布尔什维克）党史简明教程,,zh,P0193,G20,,,,,,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00381,Human Blood Is Not Water,,en,P0450,G04,PL0002,1961,Zuojia chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00381,人血不是水,,zh,P0450,G04,PL0002,1961,Zuojia chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00382,Le Rouge et le Noir,,fr,P0288,G04,,,,,no,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00382,The Red and the Black,,en,P0288,G04,,,,,no,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00382,红与黑,,zh,P0288,G04,,,,,no,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00383,The Stalin Era,,en,P0451,G41,PL0002,1979,Shijie zhishi chubanshe,1957,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00383,斯大林时代,,zh,P0451,G41,PL0002,1979,Shijie zhishi chubanshe,1957,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00384,Liuhoulun,,en,P0452,G24,,1060,,,no,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00384,留侯论,,zh,P0452,G24,,1060,,,no,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00385,"Remembering Chibi, to the tune of Nian Nu Jiao",,en,P0452,G13,,,,,no,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00385,念奴娇·赤壁怀古,,zh,P0452,G13,,,,,no,,,,,,2019-01-08,DM,2019-01-08,DM
+PS00386,Selected Speeches and Writings,,en,P0454,G27,,,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00386,苏斯洛夫言论选,,zh,P0454,G27,,,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00387,Kampanelly,,en,P0455,G43,PL0002,1963,Shangwu yin shuguan,,,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00387,康帕内拉传记,,zh,P0455,G43,PL0002,1963,Shangwu yin shuguan,,,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,DM
+PS00573,Ancient Chinese,,en,P0756,G20,PL0003,1962,Zhonghua shuju,,,,,,Translated by project member.,,2018-12-15,WH,2018-12-15,WH
+PS00573,Gudai hanyu,,zh-Latn-pinyin,P0756,G20,PL0003,1962,Zhonghua shuju,,,,,,,,2018-12-15,WH,2018-12-15,WH
+PS00573,古代汉语,,zh,P0756,G20,PL0003,1962,Zhonghua shuju,,,,,,,,2018-12-15,WH,2018-12-15,WH
+PS00574,Raise the Eyebrows and Pull the Sword Out,,en,P0757,G10,PL0002,1976,,,,,,,Translated by project member.,,2018-12-15,WH,2018-12-15,WH
+PS00574,Yangmei jian chuqiao,,zh-Latn-pinyin,P0757,G10,PL0002,1976,,,,,,,,,2018-12-15,WH,2018-12-15,WH
+PS00574,扬眉剑出鞘,,zh,P0757,G10,PL0002,1976,,,,,,,,,2018-12-15,WH,2018-12-15,WH
+PS00575,Wang Shikuo’s Sketch Collection,,en,P0758,G73,PL0999,unknown,,,,,,,Translated by project member.,,2018-12-16,WH,2018-12-16,WH
+PS00575,Wang Shikuo sumiao xuan,,zh-Latn-pinyin,P0758,G73,PL0999,unknown,,,,,,,,,2018-12-16,WH,2018-12-16,WH
+PS00575,王式廓素描选,,zh,P0758,G73,PL0999,unknown,,,,,,,,,2018-12-16,WH,2018-12-16,WH
+PS00576,Green Monster,,en,P0759,G04,PL0999,,,,no,,,,Translated by project member.,,2018-12-16,WH,2018-12-16,WH
+PS00576,Lümao shuiguai,,zh-Latn-pinyin,P0759,G04,PL0999,,,,no,,,,,,2018-12-16,WH,2018-12-16,WH
+PS00576,绿毛水怪,,zh,P0759,G04,PL0999,,,,no,,,,,,2018-12-16,WH,2018-12-16,WH
+PS00577,Guwen Guanzhi,,en,P0761,G28,PL0999,1695,,,no,,,,Another author is P0762.,,2018-12-17,WH,2018-12-17,WH
+PS00577,Guwen guan zhi,,zh-Latn-pinyin,P0761,G28,PL0999,1695,,,no,,,,Another author is P0762.,,2018-12-17,WH,2018-12-17,WH
+PS00577,古文观止,,zh,P0761,G28,PL0999,1695,,,no,,,,Another author is P0762.,,2018-12-17,WH,2018-12-17,WH
+PS00578,Rulin Waishi,,en,P0763,G04,PL0999,,,,no,,,,,,2018-12-22,WH,2018-12-22,WH
+PS00578,Rulin waishi,,zh-Latn-pinyin,P0763,G04,PL0999,,,,no,,,,,,2018-12-22,WH,2018-12-22,WH
+PS00578,儒林外史,,zh,P0763,G04,PL0999,,,,no,,,,,,2018-12-22,WH,2018-12-22,WH
+PS00579,Trouble shooting and repair of radio equipment,,en,P0764,G19,PL0003,1950,Shangwu yinshuguan,1947,no,,,,Another author is P0765. Translated by project member.,,2018-12-22,WH,2018-12-22,WH
+PS00579,Wuxiandian xiuli yuanli,,zh-Latn-pinyin,P0764,G19,PL0003,1950,Shangwu yinshuguan,1947,no,,,,Another author is P0765.,,2018-12-22,WH,2018-12-22,WH
+PS00579,无线电修理原理,,zh,P0764,G19,PL0003,1950,Shangwu yinshuguan,1947,no,,,,Another author is P0765.,,2018-12-22,WH,2018-12-22,WH
+PS00580,Revolutionary Martyrs Poetry,,en,P0769,G59,PL0002,1959,Zhongguo qingnian chubanshe,,,,,,Translated by project member.,,2018-12-24,WH,2018-12-24,WH
+PS00580,Geming lies shi chao,,zh-Latn-pinyin,P0769,G59,PL0002,1959,Zhongguo qingnian chubanshe,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00580,革命烈士诗抄,,zh,P0769,G59,PL0002,1959,Zhongguo qingnian chubanshe,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00581,The Red Flag Fluttering,,en,P0770,G52,PL0002,1956,Zhongguo qingnian chubanshe,,,,,,Translated by project member.,,2018-12-24,WH,2018-12-24,WH
+PS00581,Hongqi piaopiao,,zh-Latn-pinyin,P0770,G52,PL0002,1956,Zhongguo qingnian chubanshe,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00581,红旗飘飘,,zh,P0770,G52,PL0002,1956,Zhongguo qingnian chubanshe,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00582,Jiaxuan Poems,,en,P0772,G59,,,,,,,,,Translated by project member.,,2018-12-24,WH,2018-12-24,WH
+PS00582,Jiaxuan chang duan ju,,zh-Latn-pinyin,P0772,G59,,,,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00582,稼轩长短句,,zh,P0772,G59,,,,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00583,On the Study of Political Economy in Socialist Period,,en,P0130,G19,,,,,,,,,Translated by project member.,,2018-12-24,WH,2018-12-24,WH
+PS00583,Shi lun shehuizhuyi shiqi de zhengzhi jingji xue yanjiu,,zh-Latn-pinyin,P0130,G19,,,,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00583,试论社会主义时期的政治经济学研究,,zh,P0130,G19,,,,,,,,,,,2018-12-24,WH,2018-12-24,WH
+PS00584,Goldbach's Conjecture,,en,P0773,G74,PL0002,1978,Renmin wenxue chubanshe,,,,,,,,2019-01-25,WH,2019-01-25,WH
+PS00584,Gedebahe Caixiang,,zh-Latn-pinyin,P0773,G74,PL0002,1978,Renmin wenxue chubanshe,,,,,,,,2019-01-25,WH,2019-01-25,WH
+PS00584,哥德巴赫猜想,,zh,P0773,G74,PL0002,1978,Renmin wenxue chubanshe,,,,,,,,2019-01-25,WH,2019-01-25,WH
+PS00585,Under the Qilian Mountains,,en,P0773,G74,PL0002,1962,Renmin wenxue chubanshe,,,,,,Translated by project member.,,2019-01-26,WH,2019-01-26,WH
+PS00585,Qilianshan xia,,zh-Latn-pinyin,P0773,G74,PL0002,1962,Renmin wenxue chubanshe,,,,,,,,2019-01-26,WH,2019-01-26,WH
+PS00585,祁连山下,,zh,P0773,G74,PL0002,1962,Renmin wenxue chubanshe,,,,,,,,2019-01-26,WH,2019-01-26,WH
+PS00586,Einstein Collection,,en,P0774,G28,PL0002,1976,Shangwu yinshuguan,,,,,,Translated by project member.,,2019-01-26,WH,2019-01-26,WH
+PS00586,Aiyinsitan wenji,,zh-Latn-pinyin,P0774,G28,PL0002,1976,Shangwu yinshuguan,,,,,,,,2019-01-26,WH,2019-01-26,WH
+PS00586,爱因斯坦文集,,zh,P0774,G28,PL0002,1976,Shangwu yinshuguan,,,,,,,,2019-01-26,WH,2019-01-26,WH
+PS00600,Pour Vivre ici,,fr,P0637,G10,PL0999,19xx,unknown,,,,,,Written in 1918,,2019-02-04,MG,2019-02-04,MG
+PS00600,为了在这里生活,,zh,P0637,G10,PL0999,19xx,unknown,,,,,,Written in 1918,,2019-02-04,MG,2019-02-04,MG
+PS00601,xxx,,fr,P0637,G10,PL0999,19xx,unknown,,,,,,,please check the source for title (SS00112),2019-02-04,MG,2019-02-04,MG
+PS00601,xxx,,zh,P0637,G10,PL0999,19xx,unknown,,,,,,,please check the source for title (SS00112),2019-02-04,MG,2019-02-04,MG
+PS00613,Book on Xinjiang,,en,P0999,G20,PL0999,195x,unknown,,no,,,,,,2019-01-31,LH ,2019-01-31,LH
+PS00602,The Song of Ouyang Hai,,en,P0802,G04,PL0002,1965,Jiefangjun wenyi she,,no,,,,,,2019-02-11,MG,2019-02-11,MG
+PS00602,欧阳海之歌,,zh,P0802,G04,PL0002,1965,Jiefangjun wenyi she,,no,,,,,,2019-02-11,MG,2019-02-11,MG
+PS00603,苏联是社会主义国家吗,,zh,P0803,G99,PL0999,1970~,,,no,,,,Semi-overt distribution in China,could only find a publication in Hongkong in 1970 (Sanlian shudian),2019-02-11,MG,2019-02-11,MG
+PS00604,Whither Guangdong?,,en,P0807,G76,PL0079,1974,,,,,,,big character poster,,2019-02-18,LH,2019-02-18,LH
+PS00604,广东怎么办,,zh,P0807,G76,PL0079,1974,,,,,,,big character poster,,2019-02-18,LH,2019-02-18,LH
+PS00604,Guangdong zenme ban,,zh-Latn-pinyin,P0807,G76,PL0079,1974,,,,,,,big character poster,,2019-02-18,LH,2019-02-18,LH
+PS00605,Classical Theory of Fields,,en,P0809,G19,,,,,,,,,,,2019-02-18,LH,2019-02-18,LH
+PS00587,Evolution and Ethics,,en,P0777,G19,,,,,,,,,,,2019-01-28,WH,2019-01-28,WH
+PS00587,Tian yan lun,,zh-Latn-pinyin,P0777,G19,,,,,,,,,,,2019-01-28,WH,2019-01-28,WH
+PS00587,天演论,,zh,P0777,G19,,,,,,,,,,,2019-01-28,WH,2019-01-28,WH
+PS00588,The Poor,,en,P0018,G10,,1973,,1973,,,,,Translated by project member.,,2019-01-29,WH,2019-01-29,WH
+PS00588,Qiongren,,zh-Latn-pinyin,P0018,G10,,1973,,1973,,,,,,,2019-01-29,WH,2019-01-29,WH
+PS00588,穷人,,zh,P0018,G10,,1973,,1973,,,,,,,2019-01-29,WH,2019-01-29,WH
+PS00589,Mountain Township and Blood Fire,,en,P0154,G04,,,,,,,,,Translated by project member. The manuscript of this book was burned as firewood by the author’s mother. ,,2019-02-17,WH,2019-02-17,WH
+PS00589,Shanxiang xue huo,,zh-Latn-pinyin,P0154,G04,,,,,,,,,The manuscript of this book was burned as firewood by the author’s mother. ,,2019-02-17,WH,2019-02-17,WH
+PS00589,山乡血火,,zh,P0154,G04,,,,,,,,,The manuscript of this book was burned as firewood by the author’s mother. ,,2019-02-17,WH,2019-02-17,WH
+PS00590,Song of Youth,,en,P0780,G04,PL0002,1958,Zuojia chubanshe,1958,,,,,Translated by project member.,,2019-02-17,WH,2019-02-17,WH
+PS00590,Qingchun zhi ge,,zh-Latn-pinyin,P0780,G04,PL0002,1958,Zuojia chubanshe,1958,,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00590,青春之歌,,zh,P0780,G04,PL0002,1958,Zuojia chubanshe,1958,,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00591,Internal Medicine,,en,P0784,G35,PL0002,1958,Renmin weisheng chubanshe,1958,yes,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00591,Neike xue,,zh-Latn-pinyin,P0784,G35,PL0002,1958,Renmin weisheng chubanshe,1958,yes,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00591,内科学,,zh,P0784,G35,PL0002,1958,Renmin weisheng chubanshe,1958,yes,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00592,Family Background Theory,,en,P0785,G24,,,,1967,,,,,Translated by project member.,,2019-02-17,WH,2019-02-17,WH
+PS00592,Chushen lun,,zh-Latn-pinyin,P0785,G24,,,,1967,,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00592,出身论,,zh,P0785,G24,,,,1967,,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00593,A Little Star Next to the Moon,,en,P0786,G10,,,,,,,,,Translated by project member.,,2019-02-17,WH,2019-02-17,WH
+PS00593,Yueliang pang de yi ke xiao xing,,zh-Latn-pinyin,P0778,G10,,,,,,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00593,月亮旁的一颗小星,,zh,P0778,G10,,,,,,,,,,,2019-02-17,WH,2019-02-17,WH
+PS00594,Baiyangdian,,en,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00594,Baiyangdian,,zh-Latn-pinyin,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00594,白洋淀,,zh,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00595,Bridge over the Abyss,,en,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00595,Shenyuan shang de qiao,,zh-Latn-pinyin,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00595,深渊上的桥,,zh,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00596,Type of laughter,,en,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00596,Xiao de zhonglei,,zh-Latn-pinyin,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00596,笑的种类,,zh,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2019-02-17,WH,2019-02-17,WH
+PS00597,My Memories,,en,P0786,G03,PL0002,1980,Renmin chubanshe,1974,,,,,Translated by project member.,,2019-02-23,WH,2019-02-23,WH
+PS00597,Wo de huiyi,,zh-Latn-pinyin,P0786,G03,PL0002,1980,Renmin chubanshe,1974,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00597,我的回忆,,zh,P0786,G03,PL0002,1980,Renmin chubanshe,1974,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00598,Our Monument,,en,P0787,G10,,,,,,,,,Translated by project member.,,2019-02-23,WH,2019-02-23,WH
+PS00598,Women de jinianbei,,zh-Latn-pinyin,P0787,G10,,,,,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00598,我们的纪念碑,,zh,P0787,G10,,,,,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00599,The Boundary,,en,P0788,G04,PL0003,1975,Shanghai renmin chubanshe,,,,,,Translated by project member.,,2019-02-23,WH,2019-02-23,WH
+PS00599,Fenjiexian,,zh-Latn-pinyin,P0788,G04,PL0003,1975,Shanghai renmin chubanshe,,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00599,分界线,,zh,P0788,G04,PL0003,1975,Shanghai renmin chubanshe,,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00700,Chinese Historical Anthology,,en,P0791,G36,PL0003,1962,Shanghai guji chubanshe,,,,,,Translated by project member.,,2019-02-23,WH,2019-02-23,WH
+PS00700,Zhongguo lishi wenxuan,,zh-Latn-pinyin,P0791,G36,PL0003,1962,Shanghai guji chubanshe,,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00700,中国历史文选,,zh,P0791,G36,PL0003,1962,Shanghai guji chubanshe,,,,,,,,2019-02-23,WH,2019-02-23,WH
+PS00701,The Hurricane,,en,P0249,G04,PL0002,1952,Renmin wenxue chubanshe,1948,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00701,Baofeng zhouyu,,zh-Latn-pinyin,P0249,G04,PL0002,1952,Renmin wenxue chubanshe,1948,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00701,暴风骤雨,,zh,P0249,G04,PL0002,1952,Renmin wenxue chubanshe,1948,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00702,The Aesthetic History of West,,en,P0792,G20,PL0002,1963,Renmin wenxue chubanshe,,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00702,Xifang meixue shi,,zh-Latn-pinyin,P0792,G20,PL0002,1963,Renmin wenxue chubanshe,,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00702,西方美学史,,zh,P0792,G20,PL0002,1963,Renmin wenxue chubanshe,,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00703,Le Cygne,,fr,P0794,G10,,,,,,,,,Translated from French by P0093.,,2019-02-24,WH,2019-02-24,WH
+PS00703,Tian’e,,zh-Latn-pinyin,P0794,G10,,,,,,,,,Translated from French by P0093.,,2019-02-24,WH,2019-02-24,WH
+PS00703,天鹅,,zh,P0794,G10,,,,,,,,,Translated from French by P0093.,,2019-02-24,WH,2019-02-24,WH
+PS00704,Wandering in Absolute Freedom,,en,P0797,G29,,,,,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00704,Xiaoyao you,,zh-Latn-pinyin,P0797,G29,,,,,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00704,逍遥游,,zh,P0797,G29,,,,,,,,,,,2019-02-24,WH,2019-02-24,WH
+PS00705,Autumn Floods,,en,P0797,G77,,,,,,,,,,,2019-02-24,WH,2019-02-25,WH
+PS00705,Qiushui,,zh-Latn-pinyin,P0797,G77,,,,,,,,,,,2019-02-24,WH,2019-02-25,WH
+PS00705,秋水,,zh,P0797,G77,,,,,,,,,,,2019-02-24,WH,2019-02-25,WH
+PS00706,Zuo Zhuan,The First Year of Monarch Mingong,en,P0798,G56,,,,,,,,,This work was possibly wrote by him. The Chinese title is translated by project member.,,2019-02-24,WH,2019-02-24,WH
+PS00706,Zuo zhuan,Mingong yuannian,zh-Latn-pinyin,P0798,G56,,,,,,,,,This work was possibly wrote by him.,,2019-02-24,WH,2019-02-24,WH
+PS00706,左传,闵公元年,zh,P0798,G56,,,,,,,,,This work was possibly wrote by him.,,2019-02-24,WH,2019-02-24,WH
